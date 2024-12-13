@@ -10,4 +10,4 @@ I also have a [Colab](https://colab.research.google.com/drive/1AzXACizd_GWLmmZ_O
 You can run the local version once you have Jupyer installed and have cloned the repo.
 
 ## Video Presentation
-Slide deck as pdf in this repo and video presentation on [youtube]()
+Slide deck as pdf in this repo and video presentation on [youtube](https://www.youtube.com/watch?v=Wd4OXEFU-QM)
